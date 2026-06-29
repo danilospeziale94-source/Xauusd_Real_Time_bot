@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.22.1
+python-dotenv>=1.0.1
+yfinance
+pandas
+pandas_ta
